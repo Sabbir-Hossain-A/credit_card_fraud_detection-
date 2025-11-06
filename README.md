@@ -1,6 +1,3 @@
-# credit_card_fraud_detection
-This my first deep learning research based project. Here i used DL approach to detect credit card fraud. 
-
 # 💳 Credit Card Fraud Detection using Deep Learning
 
 A comprehensive **Deep Learning-based pipeline** to detect fraudulent credit card transactions using the famous [Kaggle Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).  
